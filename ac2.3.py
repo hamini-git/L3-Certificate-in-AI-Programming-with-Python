@@ -1,5 +1,5 @@
-n = input("Enter your name: ")
-print("Welcome", n)
+a = input("Enter your name: ")
+print("Welcome", a)
 user_name = input("Enter your name: ")
 print("Welcome", user_name)
 name = input("Enter your name: ")
